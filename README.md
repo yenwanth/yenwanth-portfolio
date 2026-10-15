@@ -1,2 +1,10 @@
-# yenwanth-portfolio
-portfolio showcasing my work in software engineering, data engineering, analytics, and machine learning—featuring practical projects, research, and technical insights.
+# Yenwanth Portfolio
+
+Upload the dist folder to your GitHub repository.
+
+Vercel settings:
+- Framework: Other
+- Build command: leave empty
+- Output directory: dist
+
+Open dist/index.html locally to preview.
